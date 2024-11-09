@@ -1,0 +1,15 @@
+[submodule "basic_file_operations"]
+	path = basic_file_operations
+	url = git@github.com:cu-ecen-aeld/assignment-1-Induja21.git
+[submodule "linux_system_programming_basics"]
+	path = linux_system_programming_basics
+	url = git@github.com:cu-ecen-aeld/assignment-2-Induja21.git
+[submodule "kernel_drivers_and_system_programming"]
+	path = kernel_drivers_and_system_programming
+	url = git@github.com:cu-ecen-aeld/assignments-3-and-later-Induja21.git
+[submodule "learning_buildroot"]
+	path = learning_buildroot
+	url = git@github.com:cu-ecen-aeld/assignment-5-Induja21.git
+[submodule "learning_yocto"]
+	path = learning_yocto
+	url = git@github.com:cu-ecen-aeld/assignment-6-Induja21.git
